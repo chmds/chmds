@@ -57,13 +57,3 @@
 
 </div>
 
----
-
-## 📈 Visitas no perfil
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=chmds&icon=0&color=0" alt="visit counter"/>
-  </a>
-</p>
-
